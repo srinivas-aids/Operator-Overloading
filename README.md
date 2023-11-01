@@ -54,7 +54,7 @@ class example
  
  
  ## Output:
-![Uploading image.png…]()
+![image](https://github.com/srinivas-aids/Operator-Overloading/assets/93427183/6b9a5357-c955-487b-a91d-d40f53c2e741)
 
  
  
